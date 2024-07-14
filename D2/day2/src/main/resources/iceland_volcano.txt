@@ -1,0 +1,7 @@
+{"value":"A lava field formed after the 2021 eruption of the Fagradalsfjall volcano."}
+{"value":"The site is located close to the town Grindavik on Iceland's southwest coast."}
+{"value":"Iceland has declared a state of emergency, with police officials urging residents to evacuate the coastal town of Grindavík following an intense wave of earthquakes in the southwest of the country linked to a possible volcanic eruption."}
+{"value":"Nearly 800 quakes were recorded between midnight and 2 p.m. on Friday, with the shallowest at a depth of 3-3.5 kilometers (1.86-2.18 miles), according to the Icelandic Meteorological Office."}
+{"value":"In statements Friday, Iceland’s Civil Protection Agency said a magma tunnel that is forming could reach Grindavík."}
+{"value":"But as of Friday evening, the Icelandic authority said it has been impossible to tell if and where the magma might break through to the surface."}
+{"value":"It is home to 32 active volcanoes."}

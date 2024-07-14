@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ff3ab0f8-5f52-4179-b81b-5119c9aedc18" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../day2/datafile.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day2/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day2/output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day2/people.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day2/src/main/java/org/io/serialization/comlex_json/JsonReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day2/src/main/java/org/io/serialization/comlex_json/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day2/src/main/java/org/io/serialization/native_serialization/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day2/src/main/java/org/io/serialization/native_serialization/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../unit_testing.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hangman/CommandOpts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hangman/GameState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hangman/Hangman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hangman/Words.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/DocumentDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/DocumentDtoHelperService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ListsOrderComparisonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/hangman/CommandOptsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/hangman/GameStateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/hangman/WordsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day2/src/main/java/org/io/files/bytes/DataOutputStreamExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day2/src/main/java/org/io/files/bytes/DataOutputStreamExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day2/src/main/java/org/io/files/chars/StringReaderExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day2/src/main/java/org/io/files/chars/StringReaderExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day2/src/main/java/org/io/serialization/JsonDeserializerExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day2/src/main/java/org/io/serialization/JsonDeserializerExample.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2j6HpmPJuwQvHBix5QiZmt9q8vE" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.Hangman.executor": "Run",
+    "JUnit.All in unit_testing.executor": "Run",
+    "JUnit.CommandOptsTest.executor": "Run",
+    "JUnit.ListsOrderComparisonTest.executor": "Run",
+    "JUnit.ListsOrderComparisonTest.testDifferentOrder.executor": "Run",
+    "JUnit.ListsOrderComparisonTest.testSameOrderAndState.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "full.screen.before.presentation.mode": "false",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/d.malonas/Downloads/fin_bootcamp/D2/unit_testing/src/test/java"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\d.malonas\Downloads\fin_bootcamp\D2\unit_testing\src\test\java" />
+      <recent name="C:\Users\d.malonas\Downloads\fin_bootcamp\D2\unit_testing\src\main\java" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="hangman" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.example" />
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ListsOrderComparisonTest">
+    <configuration name="Hangman" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hangman.Hangman" />
+      <module name="unit_testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hangman.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CommandOptsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="unit_testing" />
+      <option name="PACKAGE_NAME" value="hangman" />
+      <option name="MAIN_CLASS_NAME" value="hangman.CommandOptsTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListsOrderComparisonTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="unit_testing" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ListsOrderComparisonTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListsOrderComparisonTest.testDifferentOrder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="unit_testing" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ListsOrderComparisonTest" />
+      <option name="METHOD_NAME" value="testDifferentOrder" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListsOrderComparisonTest.testSameOrderAndState" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="unit_testing" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ListsOrderComparisonTest" />
+      <option name="METHOD_NAME" value="testSameOrderAndState" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ListsOrderComparisonTest" />
+        <item itemvalue="Application.Hangman" />
+        <item itemvalue="JUnit.ListsOrderComparisonTest.testDifferentOrder" />
+        <item itemvalue="JUnit.ListsOrderComparisonTest.testSameOrderAndState" />
+        <item itemvalue="JUnit.CommandOptsTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff3ab0f8-5f52-4179-b81b-5119c9aedc18" name="Changes" comment="" />
+      <created>1720700795032</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720700795032</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/ListsOrderComparisonTest.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/ListsOrderComparisonTest.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
