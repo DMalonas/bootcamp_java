@@ -15,10 +15,12 @@ Could take a shot at customizing it.
 - [d1](https://drive.google.com/drive/folders/1FyvoeBlWkKHzQnzeMSJmQ1hG_cmACbpi?usp=sharing)
 - [d2](https://drive.google.com/drive/folders/1xlQyciLeFPD0mGFasZy81xCKUvKPGW1J?usp=sharing)
 - [d3](https://drive.google.com/drive/folders/1qYvwzRBblxWS26gxpLF949Tm1skWGgrb?usp=sharing)
+- [d4](https://drive.google.com/drive/folders/1Ys3s9wMj5lcxSjqNwx90hE9KfR7nP-kh?usp=sharing)
 
 ### Quiz:
 - [quiz-day1](https://docs.google.com/forms/d/e/1FAIpQLSc2C0rjfJGDFMtvdxB_FtaXLV2hP2tOl3487f7aYM83166zcA/viewform?usp=sharing)  
 - [quiz-day2](https://docs.google.com/forms/d/e/1FAIpQLSeFzufWiQ761iCSkQ1v9VJGk7QcUX99JWx0jAIZtoTjpG-dxg/viewform?usp=sharing)
+- [quiz-day3](https://forms.gle/9wnYDMbstD5PsLtEA)
 
 ### Practice exercise:  
 - [practice_exercise](https://drive.google.com/drive/folders/19qcMoqJ92m3gEphj0ntAdDf0m8sudJYK?usp=sharing)
