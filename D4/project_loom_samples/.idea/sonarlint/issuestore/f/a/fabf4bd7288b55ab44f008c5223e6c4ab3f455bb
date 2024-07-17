@@ -1,0 +1,11 @@
+
+[	java:S112D"FDefine and throw a dedicated exception instead of using a generic one.(îÏ‘É
+[	java:S112N"FDefine and throw a dedicated exception instead of using a generic one.(ÿÔ¿ê
+c
+java:S2095"MUse try-with-resources or close this "ExecutorService" in a "finally" clause.(¢Ž¥ë
+E	java:S106>"+Replace this use of System.out by a logger.(–¥ŸÉøÿÿÿÿ
+E	java:S106A"+Replace this use of System.out by a logger.(­Þ’öøÿÿÿÿ
+E	java:S106I"+Replace this use of System.out by a logger.(ÁÀ¬Òûÿÿÿÿ
+A
+java:S1874O"+Remove this use of "URL"; it is deprecated.(Ðåþò
+@	java:S106V"+Replace this use of System.out by a logger.(‹š¨´
