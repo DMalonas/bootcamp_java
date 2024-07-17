@@ -1,0 +1,22 @@
+[
+  {
+    "index": 0,
+    "value": "This is a J.P.M. report detailing the latest trends in global financial markets.",
+    "matchedValue": "This is a JP Morgan report detailing the latest trends in global financial markets."
+  },
+  {
+    "index": 1,
+    "value": "To ensure we are allocating our resources effectively, we must consistently track and analyze our marketing campaigns\u0027 ROI.",
+    "matchedValue": "2\r  To ensure we are allocating our resources effectively, we must consistently track \r  and analyze our marketing campaigns\u0027 return of investment."
+  },
+  {
+    "index": 2,
+    "value": "Thus we\u0027ll adjust our strategies based on these insights.",
+    "matchedValue": "Thus we\u0027ll adjust our\r  strate-gies based on these insights."
+  },
+  {
+    "index": 3,
+    "value": "U.S. market trends will also be compared to ensure global alignment.",
+    "matchedValue": "- United States of America market trends \r will also be compared to ensure global alignment."
+  }
+]
