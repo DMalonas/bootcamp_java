@@ -7,7 +7,7 @@ Can use at any time outside of the meetings.
 If you install it, change the userName variable to your username, ideally <first-forename-letter><surname>
 
 Could take a shot at customizing it.  
-<small>(backend will be up during the Java training part of the bootcamp)</small>
+<small><small>(backend will be up during the Java training part of the bootcamp)</small></small>
 
 
 ---
