@@ -11,8 +11,8 @@ import java.util.List;
 public class JsonMatcher {
     public static void main(String[] args) throws IOException {
         // Specify the full path to the sample.json and sample.txt files
-        String jsonFilePath = "src/sample.json";
-        String textFilePath = "src/sample.txt";
+        String jsonFilePath = "sample.json";
+        String textFilePath = "sample.txt";
 
         // parse JSON array from file and read text file lines into a list
         ObjectMapper mapper = new ObjectMapper();
