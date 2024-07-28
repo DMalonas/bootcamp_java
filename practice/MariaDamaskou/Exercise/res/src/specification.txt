@@ -1,0 +1,7 @@
+Please consider the following scenario:
+We have a file containing an array of two property JSON entries, index and value.
+We also have a text file with text in it.
+Each sentence in the text file corresponds to a an entry's value in the JSON.
+We want to match the text from each value to the appropriate chunk of text from the
+text file. The final result should look like Sample_final.json's.
+Write the final result to a output.json file
